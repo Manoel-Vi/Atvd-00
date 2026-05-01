@@ -7,3 +7,7 @@ alteracao3 feat1
 alteracao1 login
 alteracao2 login
 alteracao3 login
+
+alteracao1 cadastro
+alteracao2 cadastro
+alteracao3 cadastro
