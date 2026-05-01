@@ -10,3 +10,4 @@ alteracao3 login
 
 alteracao1 cadastro
 alteracao2 cadastro
+alteracao3 cadastro
